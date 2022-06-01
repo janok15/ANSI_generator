@@ -6,6 +6,8 @@ KoBraMUD ANSI Art Generator is a program created in Java which allows the user t
 
 I created this program to make the process easier compared to what I previously did: an elaborate process involving using saving an image in Photoshop with a set palette, then converting that image with a custom program to get a textfile which was then converted to its final form inside the mud itself. With this program I only need to paste image data into the program, and then use copy to get the final form directly, which saves a lot of time.
 
+If you just want to run this program, you can download the .jar file from the binary folder.
+
 To use this program you can either load an image file (bmp, png, gif, jpg), or paste image data directly from the clipboard into the program. In essence, it uses the Floyd-Steinberg dithering algorithm and gives a background color to each fixed-width character. There is also the option to add a variable amount of colored ASCII art on top of that.
 
 The palettes are not (yet) user-definable, but instead uses the proprietary KoBraMUD, and default Unix shell and mIRC palettes.
