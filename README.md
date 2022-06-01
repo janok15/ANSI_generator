@@ -8,11 +8,11 @@ I created this program to make the process easier compared to what I previously 
 
 If you just want to run this program, you can download the .jar file from the binary folder.
 
-To use this program you can either load an image file (bmp, png, gif, jpg), or paste image data directly from the clipboard into the program. In essence, it uses the Floyd-Steinberg dithering algorithm and gives a background color to each fixed-width character. There is also the option to add a variable amount of colored ASCII art on top of that.
+<img src="https://i.imgur.com/U0AZM7I.png" alt="KoBra MUD ANSI Art Generator" width="300"/>
+
+To use this program you can either load an image file (bmp, png, gif, jpg) from the menu, or paste image data directly from the clipboard into the program. In essence, it uses the Floyd-Steinberg dithering algorithm and gives a background color to each fixed-width character. There is also the option to add a variable amount of colored ASCII art on top of that.
 
 The palettes are not (yet) user-definable, but instead uses the proprietary KoBraMUD, and default Unix shell and mIRC palettes.
-
-<img src="https://i.imgur.com/U0AZM7I.png" alt="KoBra MUD ANSI Art Generator" width="200"/>
 
 The program includes a few rudimentary image filters, as well as an emulation of the "Levels" functionality from Photoshop which I have found to be incredibly useful for massaging the image data until it looks the best. I usually leave everything at default, then use "Levels", and finally "Sharpen" once.
 
