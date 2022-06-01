@@ -12,7 +12,7 @@ To use this program you can either load an image file (bmp, png, gif, jpg), or p
 
 The palettes are not (yet) user-definable, but instead uses the proprietary KoBraMUD, and default Unix shell and mIRC palettes.
 
-![KoBra MUD ANSI Art Generator](https://i.imgur.com/U0AZM7I.png)
+<img src="https://i.imgur.com/U0AZM7I.png" alt="KoBra MUD ANSI Art Generator" width="200"/>
 
 The program includes a few rudimentary image filters, as well as an emulation of the "Levels" functionality from Photoshop which I have found to be incredibly useful for massaging the image data until it looks the best. I usually leave everything at default, then use "Levels", and finally "Sharpen" once.
 
