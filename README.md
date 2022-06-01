@@ -10,7 +10,7 @@ To use this program you can either load an image file (bmp, png, gif, jpg), or p
 
 The palettes are not (yet) user-definable, but instead uses the proprietary KoBraMUD, and default Unix shell and mIRC palettes.
 
-The program includes a few rudimentary image filters, as well as an emulation of the "Levels" functionality from Photoshop which I have found to be incredibly useful for massaging the image data until it looks the best.
+The program includes a few rudimentary image filters, as well as an emulation of the "Levels" functionality from Photoshop which I have found to be incredibly useful for massaging the image data until it looks the best. I usually leave everything at default, then use "Levels", and finally "Sharpen" once.
 
 When you are happy with the result, you can either save the data into a textfile, or you can use Edit → Copy and paste it into the file of your choice.
 
